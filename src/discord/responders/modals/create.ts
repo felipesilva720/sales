@@ -40,7 +40,7 @@ createResponder({
           .set(id, {
             id,
             name: "Nome padrão...",
-            price: 10,
+            price: 1000,
             stock: [],
             images: [],
           })
